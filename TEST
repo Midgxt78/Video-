@@ -5,7 +5,7 @@
 </head>
 <body>
     <video width="320" height="240" controls>
-        <source src="https://github.com/Midgxt78/Video-/blob/main/VIDEO.mp4" type="video/mp4">
+        <source src="https://github.com/Midgxt78/Video-/VIDEO.mp4" type="video/mp4">
         <source src="video/myVideo.webm" type="video/webm">
         Your browser does not support the video tag.
     </video>
